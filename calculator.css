@@ -5,15 +5,11 @@
 .container{
     margin:30px auto;
     width: 380px;
-    box-shadow: 8px 8px 5px rgb(175, 172, 172);
+    box-shadow: 2px 2px 2px rgb(190, 190, 240), -2px 0px 2px rgb(190, 190, 240);
     font-size: 0;
     transition: 1s;
     
    
-}
-
-.container:hover{
-    box-shadow: 8px 8px 5px rgb(200, 179, 179);
 }
 
 #result{
